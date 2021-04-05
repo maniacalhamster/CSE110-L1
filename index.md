@@ -35,7 +35,8 @@ When I'm not working on any projects, I like to spend the rest of my free time
 
 That's the end of the user page, the rest is just random stuff to fulfill the checklist for the lab.  
 
-You can [click here to go back to the top of the user page](#lab-1-akars-user-page)! and [click here to go the README](.\README) 
+You can [click here to go back to the top of the user page](#lab-1-akars-user-page)!  
+and/or [click here to go the README](.\README) 
 
 Also here's a couple Hello Worlds:
 
@@ -63,7 +64,7 @@ Write-Host "Hello World";
 ```
 
 Not that impressive, afterall Bruce Lee did say
-> I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kik 10,000 times
+> I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times
 
 ## Need to add
 - [x] Pictures
