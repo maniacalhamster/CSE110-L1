@@ -36,7 +36,7 @@ When I'm not working on any projects, I like to spend the rest of my free time
 That's the end of the user page, the rest is just random stuff to fulfill the checklist for the lab.  
 
 You can [click here to go back to the top of the user page](#lab-1-akars-user-page)!  
-and/or [click here to go the README](.\README) 
+and/or [click here to go the README](./README) 
 
 Also here's a couple Hello Worlds:
 
