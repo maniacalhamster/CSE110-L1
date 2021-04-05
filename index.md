@@ -41,7 +41,7 @@ and/or [click here to go the README](.\README)
 Also here's a couple Hello Worlds:
 
 ``` java
-public static void main(Strin[] args){
+public static void main(String[] args){
   System.out.println("Hello World");
 }
 ```
